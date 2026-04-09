@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'motion/react';
-import { Trash2, Truck, User, ArrowRight, CheckCircle } from 'lucide-react';
+import { Trash2, Truck, Home, User, ArrowRight, CheckCircle } from 'lucide-react';
 
 const Services = () => {
   const services = [
